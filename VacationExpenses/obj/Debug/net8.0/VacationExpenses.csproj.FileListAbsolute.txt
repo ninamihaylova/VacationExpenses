@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\VacationExpenses\VacationExpenses\bin\Debug\net8.0\VacationExpenses.exe
+C:\Users\ninag\RiderProjects\VacationExpenses\VacationExpenses\bin\Debug\net8.0\VacationExpenses.deps.json
+C:\Users\ninag\RiderProjects\VacationExpenses\VacationExpenses\bin\Debug\net8.0\VacationExpenses.runtimeconfig.json
+C:\Users\ninag\RiderProjects\VacationExpenses\VacationExpenses\bin\Debug\net8.0\VacationExpenses.dll
+C:\Users\ninag\RiderProjects\VacationExpenses\VacationExpenses\bin\Debug\net8.0\VacationExpenses.pdb
+C:\Users\ninag\RiderProjects\VacationExpenses\VacationExpenses\obj\Debug\net8.0\VacationExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\VacationExpenses\VacationExpenses\obj\Debug\net8.0\VacationExpenses.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\VacationExpenses\VacationExpenses\obj\Debug\net8.0\VacationExpenses.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\VacationExpenses\VacationExpenses\obj\Debug\net8.0\VacationExpenses.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\VacationExpenses\VacationExpenses\obj\Debug\net8.0\VacationExpenses.dll
+C:\Users\ninag\RiderProjects\VacationExpenses\VacationExpenses\obj\Debug\net8.0\refint\VacationExpenses.dll
+C:\Users\ninag\RiderProjects\VacationExpenses\VacationExpenses\obj\Debug\net8.0\VacationExpenses.pdb
+C:\Users\ninag\RiderProjects\VacationExpenses\VacationExpenses\obj\Debug\net8.0\VacationExpenses.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\VacationExpenses\VacationExpenses\obj\Debug\net8.0\ref\VacationExpenses.dll
